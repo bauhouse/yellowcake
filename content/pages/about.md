@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD:content/pages/about.md
 template: AboutPage
 slug: about
+=======
+template: ComponentsPage
+slug: components
+>>>>>>> ca29cf5682574fd22ec343ab29360480969b4e9c:content/pages/components.md
 title: About
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the components page subtitle.
@@ -50,3 +55,4 @@ meta:
   description: This is a meta description.
   title: About Page
 ---
+
