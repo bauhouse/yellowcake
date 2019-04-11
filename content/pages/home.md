@@ -1,9 +1,12 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Fraser Valley Rowing Club
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: |-
+  ## Rowing on the Sumas Canal
+
+  Learn to row, train for competition, or just enjoy the outdoors
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
