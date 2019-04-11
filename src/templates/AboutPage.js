@@ -9,7 +9,7 @@ import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
+export const AboutPageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -60,19 +60,19 @@ export const ComponentsPageTemplate = ({
   </main>
 )
 
-const ComponentsPage = ({ data: { page } }) => (
+const AboutPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ComponentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <AboutPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default ComponentsPage
+export default AboutPage
 
 export const pageQuery = graphql`
-  query ComponentsPage($id: String!) {
+  query AboutPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery
