@@ -2,14 +2,14 @@
 template: HomePage
 slug: ''
 title: Fraser Valley Rowing Club
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/5ad931c4-4d77-4d62-8420-1d72f9c4912b/'
 subtitle: |-
   ## Rowing on the Sumas Canal
 
   Learn to row, train for competition, or just enjoy the outdoors
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: ''
+  title: ''
 ---
 
 Yellowcake is an opinionated starter project created by Thrive Digital to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
