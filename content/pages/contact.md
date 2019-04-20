@@ -12,7 +12,7 @@ locations:
     lng: '153.2432449'
     mapLink: ''
 meta:
-  description: This is a meta description.
+  description: 'Fraser Valley Rowing Club: 40110 Quadling Road, Abbotsford, BC  V3G 2T3'
   title: Contact
 ---
 # Contact Us
