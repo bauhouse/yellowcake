@@ -7,7 +7,9 @@ featuredImage: 'https://ucarecdn.com/b905631f-d775-45cf-b8f5-95d5790d647b/'
 excerpt: The RCA Safety Video promotes and demonstrates safe practices for rowers.
 categories:
   - category: Updates
-meta: {}
+meta:
+  description: The RCA Safety Video promotes and demonstrates safe practices for rowers.
+  title: RCA Safety Video
 ---
 # Safety Video
 
