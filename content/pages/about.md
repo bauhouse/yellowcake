@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 title: About
-featuredImage: 'https://ucarecdn.com/f0f5b01a-4b59-4e77-a83a-a4a167b0bf8f/'
+featuredImage: 'https://ucarecdn.com/f388ba71-58e1-47c6-9b69-84e72c42b2b8/'
 subtitle: Fraser Valley Rowing Club
 section1: >-
   ## About Us

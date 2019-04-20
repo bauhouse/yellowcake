@@ -8,27 +8,17 @@ subtitle: |-
 
   Learn to row, train for competition, or just enjoy the outdoors
 meta:
-  description: ''
-  title: ''
+  description: >-
+    Rowing on the Sumas Canal: Learn to row, train for competition, or just
+    enjoy the outdoors
+  title: Fraser Valley Rowing Club
 ---
+# Learn to Row Program
 
-Yellowcake is an opinionated starter project created by Thrive Digital to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+[40110 Quadling Road\
+Abbotsford, BC  V3G 2T3](http://g.co/maps/fzsvh)\
+(Find FVRC on [Google Maps](http://g.co/maps/fzsvh))
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Contact us at <mailto:fraservalleyrowing@gmail.com> for details about our Learn to Row program.
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-- Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+For more information, call [604 858-3449](tel:+16048583449). Send email to <mailto:fraservalleyrowing@gmail.com>.
