@@ -19,3 +19,5 @@ meta: {}
 * Chapter 4:  Returning to Land
 
 The RCA Safety Video promotes and demonstrates safe practices for rowers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVOCsfJna3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
