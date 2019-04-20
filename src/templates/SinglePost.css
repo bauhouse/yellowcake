@@ -28,6 +28,11 @@
   padding: 8rem 8rem 4rem 8rem;
 }
 
+.SinglePost--Image {
+  width: 100%;
+  height: 45rem;
+}
+
 @media screen and (max-width: 750px) {
   .SinglePost--Content {
     padding: 4rem 2rem;

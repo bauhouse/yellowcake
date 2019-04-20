@@ -6,9 +6,11 @@ import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import Image from '../components/Image'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
+  featuredImage,
   title,
   date,
   body,
@@ -23,9 +25,12 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
+        <Link className="SinglePost--BackButton" to="/rowing/">
           <ChevronLeft /> BACK
         </Link>
+        <div className="SinglePost--Image relative">
+          <Image background src={featuredImage} alt={title} />
+        </div>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
             {date && (
@@ -120,6 +125,7 @@ export const pageQuery = graphql`
       html
       id
       frontmatter {
+        featuredImage
         title
         template
         subtitle
