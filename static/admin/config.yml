@@ -98,9 +98,9 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/blog.md'
-        label: 'Blog'
-        name: 'blog-page'
+      - file: 'content/pages/rowing.md'
+        label: 'Rowing'
+        name: 'rowing-page'
         fields:
           - {
               label: Template,
@@ -108,7 +108,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: hidden,
               default: BlogIndex,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'blog' }
+          - { label: Slug, name: slug, widget: hidden, default: 'rowing' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
