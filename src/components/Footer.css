@@ -17,3 +17,22 @@
 .footer .brand {
   padding: 6rem 3rem;
 }
+
+.register {
+  background-color: var(--primary);
+  padding: 3rem;
+}
+
+.register h2 {
+  font-size: 3rem;
+  color: white;
+}
+
+.register .Button--Register {
+  background-color: #f1c40f;
+  color: #ffffff;
+}
+
+.register .Button--Register:hover {
+  background-color: var(--secondary);
+}
