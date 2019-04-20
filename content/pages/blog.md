@@ -1,11 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Rowing
+featuredImage: 'https://ucarecdn.com/e905b329-58b3-420c-8c6a-0e74544a9564/'
+subtitle: Fraser Valley Rowing Club
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Fraser Valley Rowing Club
+  title: Rowing
 ---
 
