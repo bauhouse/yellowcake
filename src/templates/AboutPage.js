@@ -34,7 +34,7 @@ export const AboutPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Our gallery component</h2>
+        <h2>Image gallery</h2>
         <Gallery images={gallery} />
       </div>
     </section>
@@ -51,13 +51,6 @@ export const AboutPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
-      <div className="container">
-        <Popup>
-          <Content source={section1} />
-        </Popup>
-      </div>
-    </section>
   </main>
 )
 
