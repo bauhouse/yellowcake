@@ -2,6 +2,5 @@
 template: BlogIndex
 title: Updates
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/f4e05f19-e32b-4723-a09f-ac2722615f38/'
 ---
-
