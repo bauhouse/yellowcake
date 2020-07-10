@@ -2,48 +2,73 @@
 template: AboutPage
 slug: about
 title: About
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+featuredImage: 'https://ucarecdn.com/f388ba71-58e1-47c6-9b69-84e72c42b2b8/'
+subtitle: Fraser Valley Rowing Club
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## About Us
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-section2: |-
-  ## You can use videos, images and text.
+  The Fraser Valley Rowing Club is a volunteer-based non-profit organization
+  that focuses on the development of athletes of all ages by providing the
+  equipment and instruction to learn, enjoy and compete in the sport of rowing.
+  The FVRC boathouses are situated on the Sumas River near the No.3 Road exit
+  between Abbotsford and Chilliwack.
+section2: >-
+  ## Our Vision
+
+
+  Our vision is to promote the high school program, further and encourage the
+  sport of rowing for the physical, competitive and social well being of the
+  community. Our club is dedicated to upgrading competitiveness, increase
+  participation—inclusiveness, excel in coaching, personal development, team
+  building, leadership and fun.
+
+
+  ## Rowing Canada Aviron Safety Video
+
+
+  * Chapter 1: At the Boathouse
+
+  * Chapter 2:  Getting Ready
+
+  * Chapter 3:  On the Water
+
+  * Chapter 4:  Returning to Land
+
+
+  The RCA Safety Video promotes and demonstrates safe practices for rowers.
+
 
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+  src="https://www.youtube.com/embed/vVOCsfJna3Q" frameborder="0"
+
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: Row on the Sumas River near Barrowtown Pump Station
+    title: Boathouses
+  - description: 'FVRC offers quads, doubles and singles for racing and recreation'
+    title: Equipment
+  - description: Trained coaches teach you the basics in a 8-session course
+    title: Learn to Row
+  - description: >-
+      Pass on your knowledge and skills and help athletes of all ages reach
+      their potential
+    title: Volunteer
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: 'Rowing at the Head of the Gorge, Victoria, BC'
+    image: 'https://ucarecdn.com/62b2c519-a3e0-4409-be3a-ff5e13c88568/'
+    title: Head of the Gorge
+  - alt: 'Rowing at the Head of the Gorge, Victoria, BC'
+    image: 'https://ucarecdn.com/0c0383eb-87ff-436d-8cee-63ea786f84fb/'
+    title: Head of the Gorge
+  - alt: 'Rowing at the Head of the Gorge, Victoria, BC'
+    image: 'https://ucarecdn.com/c849f588-4910-4bc1-8dd0-8c610943d817/'
+    title: Head of the Gorge
 meta:
-  description: This is a meta description.
-  title: About Page
+  description: >-
+    The Fraser Valley Rowing Club is a volunteer-based non-profit organization.
+    The FVRC boathouses are situated on the Sumas River near the No.3 Road exit
+    between Abbotsford and Chilliwack.
+  title: About Us
 ---
