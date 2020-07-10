@@ -12,6 +12,12 @@ export default () => (
     </h2>
     <br />
     <InstagramFeed count="8" />
+    <section class="register">
+      <div class="container">
+        <h2>Register through Rowing Canada</h2>
+        <a class="Button Button--Register" href="https://membership.rowingcanada.org/JoinProgram?id=185">Register</a>
+      </div>
+    </section>
     <footer className="footer">
       <div className="container taCenter">
         <div class="brand">
