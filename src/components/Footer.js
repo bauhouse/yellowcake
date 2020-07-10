@@ -13,8 +13,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          The <a href="https://fraservalleyrowing.com/">Fraser Valley Rowing Club</a> acknowledges the financial assistance of the Province of British Columbia.
         </span>
       </div>
     </footer>
