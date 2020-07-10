@@ -1,30 +1,24 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Fraser Valley Rowing Club
+featuredImage: 'https://ucarecdn.com/5ad931c4-4d77-4d62-8420-1d72f9c4912b/'
+subtitle: |-
+  ## Rowing on the Sumas Canal
+
+  Learn to row, train for competition, or just enjoy the outdoors
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Rowing on the Sumas Canal: Learn to row, train for competition, or just
+    enjoy the outdoors
+  title: Fraser Valley Rowing Club
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# Learn to Row Program
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+[40110 Quadling Road\
+Abbotsford, BC  V3G 2T3](http://g.co/maps/fzsvh)\
+(Find FVRC on [Google Maps](http://g.co/maps/fzsvh))
 
-# Features
+Contact us at <mailto:fraservalleyrowing@gmail.com> for details about our Learn to Row program.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+For more information, call [604 858-3449](tel:+16048583449). Send email to <mailto:fraservalleyrowing@gmail.com>.
