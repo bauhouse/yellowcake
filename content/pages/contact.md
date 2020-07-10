@@ -8,8 +8,8 @@ address: '40110 Quadling Road, Abbotsford, BC  V3G 2T3'
 phone: 604 858-3449
 email: fraservalleyrowing@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: 49.11153,
+    lng: -122.11471,
     mapLink: ''
 meta:
   description: 'Fraser Valley Rowing Club: 40110 Quadling Road, Abbotsford, BC  V3G 2T3'
